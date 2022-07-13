@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IP_API_GeolocationDesktopApp", "IP_API_GeolocationDesktopApp\IP_API_GeolocationDesktopApp.csproj", "{CF352C62-C6A0-480A-8240-79B7C1FA8A4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF352C62-C6A0-480A-8240-79B7C1FA8A4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF352C62-C6A0-480A-8240-79B7C1FA8A4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF352C62-C6A0-480A-8240-79B7C1FA8A4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF352C62-C6A0-480A-8240-79B7C1FA8A4F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D430D68C-84CB-45D4-9B40-446126A92E1F}
+	EndGlobalSection
+EndGlobal
